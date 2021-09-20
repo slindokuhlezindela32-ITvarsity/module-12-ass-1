@@ -1,0 +1,17 @@
+body {
+padding: 6;
+margin: 0;
+background-color: lightskyblue;
+}
+
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: palevioletred rgba(31, 29, 29, 0.329);
+}
+
+
+
